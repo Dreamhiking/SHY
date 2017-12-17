@@ -1,3 +1,3 @@
-![Build Status](https://travis-ci.org/hiaShy/SHY.svg?branch=master)
+![Build Status]
 # SHY
 
